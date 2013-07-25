@@ -37,6 +37,7 @@ TPF specific domains / sites
 
 ## Which other domains are scheduled to be transfered?
 
+ * [perlnews.org](http://perlnews.org) - Dave Cross <dave@perlhacks.com>
  * [perl-tutorial.org](http://perl-tutorial.org) - Tina Müller <cpan2@tinita.de>, or Christian Walde <walde.christian@gmail.com>
  * perlfoundation.org
  * yapc.org

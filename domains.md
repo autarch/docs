@@ -3,7 +3,7 @@ TPF Domain registration
 
 ## Aim:
 
-Safe guard important domains for the future of Perl
+Safeguard important domains for the future of Perl
 
 ## Resources:
 
@@ -51,5 +51,6 @@ TPF specific domains / sites
  * perlmonks.com
  * perlmonks.net
  * perlmonks.org
+ * perlnews.org
  * perlwiki.org
 

@@ -27,12 +27,27 @@ all of our names registered at [pairNIC.com](http://www.pairnic.com/) at no cost
 
 Who actually runs the site and is approved to make alteration requests.
 
- * [perlsphere.net](perlsphere.net) - Leo Lapworth leo@cuckoo.org
- * [metacpan.org](metacpan.org) - Olaf Alders olaf.alders@gmail.com
+ * [perlsphere.net](http://perlsphere.net) - Leo Lapworth leo@cuckoo.org
+ * [metacpan.org](http://metacpan.org) - Olaf Alders olaf.alders@gmail.com
+
+TPF specific domains / sites
+
+ * [perl-foundation.com](http://perl-foundation.com)
+ * [perl-foundation.net](http://perl-foundation.net)
 
 ## Which other domains are scheduled to be transfered?
 
  * perlfoundation.org
  * yapc.org
-
+ * parrotcode.org
+ * perl-foundation.org
+ * perl-foundation.us
+ * perldocs.org
+ * perlfoundation.com
+ * perlfoundation.net
+ * perlfoundation.us
+ * perlmonks.com
+ * perlmonks.net
+ * perlmonks.org
+ * perlwiki.org
 

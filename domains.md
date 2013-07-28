@@ -51,6 +51,5 @@ TPF specific domains / sites
  * perlmonks.com
  * perlmonks.net
  * perlmonks.org
- * perlnews.org
  * perlwiki.org
 

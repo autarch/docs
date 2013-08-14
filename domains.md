@@ -33,23 +33,23 @@ Who actually runs the site and is approved to make alteration requests.
 
 TPF specific domains / sites
 
+ * [parrotcode.org](http://parrotcode.org)
  * [perl-foundation.com](http://perl-foundation.com)
  * [perl-foundation.net](http://perl-foundation.net)
+ * [perl-foundation.org](http://perl-foundation.org)
+ * [perl-foundation.us](http://perl-foundation.us)
+ * [perldocs.org](http://perldocs.org)
+ * [perlfoundation.com](http://perlfoundation.com)
+ * [perlfoundation.net](http://perlfoundation.net)
+ * [perlfoundation.us](http://perlfoundation.us)
+ * [perlmonks.com](http://perlmonks.com)
+ * [perlmonks.net](http://perlmonks.net)
+ * [perlmonks.org](http://perlmonks.org)
+ * [perlwiki.org](http://perlwiki.org)
 
 ## Which other domains are scheduled to be transfered?
 
  * [perl-tutorial.org](http://perl-tutorial.org) - Tina Müller <cpan2@tinita.de>, or Christian Walde <walde.christian@gmail.com>
- * perlfoundation.org
  * yapc.org
- * parrotcode.org
- * perl-foundation.org
- * perl-foundation.us
- * perldocs.org
- * perlfoundation.com
- * perlfoundation.net
- * perlfoundation.us
- * perlmonks.com
- * perlmonks.net
- * perlmonks.org
- * perlwiki.org
+ * mcpan.org
 

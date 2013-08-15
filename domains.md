@@ -12,10 +12,14 @@ all of our names registered at [pairNIC.com](http://www.pairnic.com/) at no cost
 
 ## Details
 
- * Can I still use my own DNS? - YES
+You are giving ownership of these domains to TPF, that said whilst you are
+around it is your decision what happens with it...
+
+ * Can I have the full ownership back - No, it defeats the purpose of this project
+ * Can I still use my own DNS? - YES, or we'll run it as you request.
+ * How do I get records updated if you do the DNS - email us and we'll try be as quick as possible
  * Will you do email forwarding - YES
- * How to I get records updated if you do the DNS - email us and we'll try be as quick as possible
- * Can I have access to make changes my self - Sorry, no, it's a single account that will manage everything
+ * Can I have access to make changes myself - Sorry, no, it's a single account that will manage everything
 
 ## How to get your domain added?
 

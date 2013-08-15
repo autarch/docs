@@ -13,7 +13,7 @@ all of our names registered at [pairNIC.com](http://www.pairnic.com/) at no cost
 ## Details
 
 You are giving ownership of these domains to TPF, that said whilst you are
-around it is your decision what happens with it...
+around it is your decision what happens with the DNS...
 
  * Can I have the full ownership back - No, it defeats the purpose of this project
  * Can I still use my own DNS? - YES, or we'll run it as you request.

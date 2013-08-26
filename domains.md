@@ -57,3 +57,18 @@ TPF specific domains / sites
  * yapc.org
  * mcpan.org
 
+## Which domains will NOT be transfered yet/ever, and who own's them?
+
+### Barbie - Jon "JJ" Allen and Brian McCauley in case of emergencies:
+
+  * [cpantesters.org](http://cpantesters.org)
+  * [cpantesters.net](http://cpantesters.net)
+  * [cpantesters.com](http://cpantesters.com)
+  * [yapc-surveys.org](http://yapc-surveys.org)
+  * [qa-hackathon.org](http://qa-hackathon.org)
+
+### Others important domains
+
+  * [perl.org](http://perl.org) - Ask and Robert
+  * [perl.com](http://perl.com) - Tom Christiansen
+

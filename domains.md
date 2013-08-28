@@ -32,7 +32,8 @@ around it is your decision what happens with the DNS...
 Who actually runs the site and is approved to make alteration requests.
 
  * [perlsphere.net](http://perlsphere.net) - Leo Lapworth <leo@cuckoo.org>
- * [metacpan.org](http://metacpan.org) - Olaf Alders <olaf.alders@gmail.com>
+ * [metacpan.org](http://metacpan.org) - from Olaf Alders <olaf.alders@gmail.com>, noc@metacpan.org team can request changes but they use DynDNS so don't really need to
+ * [mcpan.org](http://mcpan.org) - from dpetrov (mitakaa@gmail.com), noc@metacpan.org team can request changes
  * [perlnews.org](http://perlnews.org) - Dave Cross <dave@perlhacks.com>
 
 TPF specific domains / sites
@@ -55,7 +56,6 @@ TPF specific domains / sites
 
  * [perl-tutorial.org](http://perl-tutorial.org) - Tina Müller <cpan2@tinita.de>, or Christian Walde <walde.christian@gmail.com>
  * yapc.org
- * mcpan.org
 
 ## Which domains will NOT be transfered yet/ever, and who own's them?
 

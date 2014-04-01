@@ -40,3 +40,9 @@ www.pm.org
 Hosted by perl.org. Run by Jay Hannah.
 
 Github repo: https://github.com/perlorg/www.pm.org
+
+
+irc.perl.org
+------------
+
+Hosted by sungo. Run by sungo. Owned by sungo. All Hail sungo.

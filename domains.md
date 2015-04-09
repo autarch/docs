@@ -52,6 +52,8 @@ TPF specific domains / sites
  * [perlmonks.org](http://perlmonks.org)
  * [perlwiki.org](http://perlwiki.org)
  * [yapc.org](http://yapc.org)
+ * [yapcna.com](http://yapcna.com)
+ * [yapcna.org](http://yapcna.org)
 
 ## Which other domains are scheduled to be transfered?
 

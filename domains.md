@@ -51,11 +51,11 @@ TPF specific domains / sites
  * [perlmonks.net](http://perlmonks.net)
  * [perlmonks.org](http://perlmonks.org)
  * [perlwiki.org](http://perlwiki.org)
+ * [yapc.org](http://yapc.org)
 
 ## Which other domains are scheduled to be transfered?
 
  * [perl-tutorial.org](http://perl-tutorial.org) - Tina Müller <cpan2@tinita.de>, or Christian Walde <walde.christian@gmail.com>
- * yapc.org
 
 ## Which domains will NOT be transfered yet/ever, and who own's them?
 

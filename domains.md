@@ -61,7 +61,7 @@ TPF specific domains / sites
 
 ## Which domains will NOT be transfered yet/ever, and who own's them?
 
-### Barbie - Jon "JJ" Allen and Brian McCauley in case of emergencies:
+### Barbie - Jon "JJ" Allen and Douglas Bell in case of emergencies:
 
   * [cpantesters.org](http://cpantesters.org)
   * [cpantesters.net](http://cpantesters.net)
